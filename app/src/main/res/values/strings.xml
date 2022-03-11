@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Munggo App</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">Welcome back to Munggo App!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <string name="biometrics">Use biometrics</string>
+    <string name="new_to_mpt">New to MPT DriveHub?</string>
+    <string name="continue_with">or continue with</string>
+    <string name="fb">Facebook</string>
+    <string name="gmail">G-Mail</string>
+</resources>
