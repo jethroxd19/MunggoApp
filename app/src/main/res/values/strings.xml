@@ -3,7 +3,7 @@
     <string name="sign_in">Sign-In</string>
     <string name="sign_up">Sign Up</string>
     <string name="welcome">Welcome back to Munggo App!</string>
-    <string name="username">Username</string>
+    <string name="username"> Username</string>
     <string name="password">Password</string>
     <string name="forgot_pass">Forgot your password?</string>
     <string name="biometrics">Use biometrics</string>
@@ -11,4 +11,19 @@
     <string name="continue_with">or continue with</string>
     <string name="fb">Facebook</string>
     <string name="gmail">G-Mail</string>
+    <string name="title_activity_log">LogActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_trips">Trips</string>
+    <string name="title_rfid">RFID</string>
+    <string name="title_help">Help</string>
+    <string name="title_account">Account</string>
 </resources>

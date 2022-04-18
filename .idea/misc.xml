@@ -3,6 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.222" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/drawable/account_circle.xml" value="0.222" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/drawable/ez_circle.xml" value="0.127" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/drawable/ic_baseline_remove_circle_24.xml" value="0.127" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/drawable/semi_ez_circle.xml" value="0.136" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/drawable/welcome_appbar.xml" value="0.222" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/account_fragment.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/activity_home_screen.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/activity_log.xml" value="0.2" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/activity_tutorials.xml" value="0.1" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/content_log.xml" value="0.176" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_account.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_first.xml" value="0.2" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_help.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_home.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_rfid.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_second.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/fragment_trips.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/tutorials_fragment_tutorial_screen.xml" value="0.1" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/layout/welcome_appbar.xml" value="0.259375" />
+        <entry key="..\:/Users/jrbernardo/Android Projects/MunggoApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.144" />
         <entry key="..\:/Users/jrbernardo/AndroidStudioProjects/MunggoApp/app/src/main/res/drawable/account_circle.xml" value="0.194" />
         <entry key="..\:/Users/jrbernardo/AndroidStudioProjects/MunggoApp/app/src/main/res/drawable/fingerprint_bio.xml" value="0.194" />
         <entry key="..\:/Users/jrbernardo/AndroidStudioProjects/MunggoApp/app/src/main/res/drawable/password.xml" value="0.194" />
